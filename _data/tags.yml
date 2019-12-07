@@ -1,11 +1,11 @@
-tag1:
+about:
   name: about
 
-tag2:
+projects:
   name: projects
 
-tag3:
+education:
   name: education
 
-tag4:
+skills:
   name: skills
