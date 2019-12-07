@@ -1,11 +1,10 @@
-permalink: /:year:month:day/:title
-url: #Your url here
+permalink: /:1994:12:09/:Marcos Teixeira
+url: "https://marcostx.github.io"
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
-google_verification: null
+name: Marcos Teixeira
+description: Data Scientist & Researcher
 
 
 # File management
