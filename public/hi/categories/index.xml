@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Marcos Vinícius</title>
+    <link>http://localhost:1313/hi/categories/</link>
+    <description>हाल ही की पोस्ट में Categories पर Marcos Vinícius</description>
+    <generator>Hugo 0.151.0</generator>
+    <language>hi-IN</language>
+    <managingEditor>Marcos Vinícius</managingEditor>
+    
+      <webMaster>Marcos Vinícius</webMaster>
+    <lastBuildDate>Wed, 08 Oct 2025 23:33:30 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/hi/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
