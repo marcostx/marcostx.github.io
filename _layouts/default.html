@@ -1,98 +1,299 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<link rel="stylesheet" href="/assets/css/atom-one-light.css">
-    {% if page.title or page.title == 'me' %}
-        <title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="/assets/css/002.css">
-    {% else %}
-        <title>{{ site.name }}</title>
-		<link rel="stylesheet" type="text/css" href="/assets/css/001.css">
-    {% endif %}
-	<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
-	<script src="/assets/js/highlight.pack.js"></script>
-	<script>hljs.initHighlightingOnLoad();</script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  {% if page.title %}
+  <title>{{ page.title }} - {{ site.name }}</title>
+  {% else %}
+  <title>{{ site.name }} - {{ site.description }}</title>
+  {% endif %}
+  <meta name="description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --primary-color: #2563eb;
+      --secondary-color: #64748b;
+      --text-color: #1e293b;
+      --text-light: #64748b;
+      --bg-color: #ffffff;
+      --bg-secondary: #f8fafc;
+      --border-color: #e2e8f0;
+      --accent-color: #0ea5e9;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      color: var(--text-color);
+      background-color: var(--bg-secondary);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background-color: var(--bg-color);
+      min-height: 100vh;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Header Navigation */
+    .header {
+      background: var(--bg-color);
+      border-bottom: 1px solid var(--border-color);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .logo {
+      font-family: 'Crimson Text', serif;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--primary-color);
+      text-decoration: none;
+    }
+
+    .nav-links {
+      display: flex;
+      list-style: none;
+      gap: 2rem;
+    }
+
+    .nav-links a {
+      color: var(--text-color);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+
+    .nav-links a:hover {
+      color: var(--primary-color);
+    }
+
+    /* Main Content */
+    .main-content {
+      padding: 2rem;
+    }
+
+    /* Typography */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: 'Crimson Text', serif;
+      margin-bottom: 1rem;
+      color: var(--text-color);
+    }
+
+    h1 {
+      font-size: 3rem;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+
+    h2 {
+      font-size: 2.25rem;
+      font-weight: 600;
+      margin-top: 2rem;
+    }
+
+    h3 {
+      font-size: 1.75rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin-bottom: 1rem;
+      color: var(--text-light);
+    }
+
+    /* Hero Section */
+    .hero {
+      text-align: center;
+      padding: 4rem 2rem;
+      background: linear-gradient(135deg, var(--bg-color) 0%, var(--bg-secondary) 100%);
+    }
+
+    .hero h1 {
+      margin-bottom: 0.5rem;
+    }
+
+    .hero .subtitle {
+      font-size: 1.25rem;
+      color: var(--primary-color);
+      margin-bottom: 1rem;
+      font-weight: 500;
+    }
+
+    .hero .location {
+      color: var(--text-light);
+      margin-bottom: 2rem;
+    }
+
+    /* Buttons */
+    .btn {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background: var(--primary-color);
+      color: white;
+      text-decoration: none;
+      border-radius: 0.5rem;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      margin: 0.25rem;
+    }
+
+    .btn:hover {
+      background: var(--accent-color);
+      transform: translateY(-2px);
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: var(--primary-color);
+      border: 2px solid var(--primary-color);
+    }
+
+    .btn-outline:hover {
+      background: var(--primary-color);
+      color: white;
+    }
+
+    /* Cards */
+    .card {
+      background: var(--bg-color);
+      border: 1px solid var(--border-color);
+      border-radius: 0.75rem;
+      padding: 2rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s ease;
+    }
+
+    .card:hover {
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+      transform: translateY(-2px);
+    }
+
+    /* Grid Layout */
+    .grid {
+      display: grid;
+      gap: 2rem;
+      margin: 2rem 0;
+    }
+
+    .grid-2 {
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+
+    .grid-3 {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+
+    /* Tags */
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 1rem 0;
+    }
+
+    .tag {
+      background: var(--bg-secondary);
+      color: var(--text-color);
+      padding: 0.25rem 0.75rem;
+      border-radius: 1rem;
+      font-size: 0.875rem;
+      font-weight: 500;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--text-color);
+      color: white;
+      text-align: center;
+      padding: 2rem;
+      margin-top: 4rem;
+    }
+
+    .footer a {
+      color: var(--accent-color);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .nav {
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .nav-links {
+        gap: 1rem;
+      }
+
+      .hero {
+        padding: 2rem 1rem;
+      }
+
+      .hero h1 {
+        font-size: 2rem;
+      }
+
+      .main-content {
+        padding: 1rem;
+      }
+    }
+  </style>
 </head>
+
 <body>
-	<div class="wrapper">
-		<div class="default_title">
-			<img src="/assets/img/mycomputer.png" />
-			{% if page.tag %}
-				<h1>{{ page.tag }}</h1>
-			{% else %}
-				<h1>{{ site.name }}</h1>
-			{% endif %}
-		</div>
-		{% include topbar.html %}
-		<div class="tag_list">
-			<ul id="tag-list">
-				<li><a href="/" ><img src="/assets/img/disk.png" />(C:)</a>
-			<ul>
-				{% assign tags = site.tags | sort %}
-				{% for tag in tags %}
-				<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
-				{% endfor %}
-			</ul>
-				</li>
-			</ul>
-		</div>
-		<div class="post_list">
-			{% unless page.date%}
-				{% if page.title == 'me' or page.title == '404...' %}
-					<ul>
-						{% for post in site.posts %}
-						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
-						{% endfor %}
-					</ul>
-				{% else %}
-					{{ content }}
-				{% endif %}
-			{% else %}
-				<ul>
-					{% for post in site.posts %}
-					<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
-					{% endfor %}
-				</ul>
-			{% endunless %}
-		</div>
-		<div class="post_total">
-			{% if page.tag %}
-				<div class="left">{{ site.tags[page.tag] | size }} object(s)</div>
-			{% else %}
-				<div class="left">{{ site.posts | size }} object(s)</div>
-			{% endif %}
-			<div class="right">&nbsp;</div>
-		</div>
-	</div>
-	{% if page.title %}
-        <div class="content">
-			<div class="post_title">
-				<img src="/assets/img/file.png" />
-				<h1>{{  page.title  }}</h1>
-				<a href="/"><div class="btn"><span class="fa fa-times"></span></div></a>
-				<div class="btn btn_max"><span class="fa fa-window-maximize"></span></div>
-				<div class="btn"><span class="fa fa-window-minimize"></span></div>
-			</div>
-			<ul class="topbar">
-				<li>{{ page.date | date: '%B %-d, %Y' }}</li>
-			</ul>
-			<div class="post_content">
-        		{{ content }}
-				{% if page.title %}
-					{% include donate.html %}
-				{% endif %}
-			</div>
-		</div>
-    {% endif %}
-	<script src="/assets/js/001.js"></script>
-	<script src="/assets/js/002.js"></script>
-	<div class="footer">
-		<p>Created by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
-	</div>
+  <div class="container">
+    <header class="header">
+      <nav class="nav">
+        <a href="/" class="logo">{{ site.name }}</a>
+        <ul class="nav-links">
+          <li><a href="/">Home</a></li>
+          <li><a href="/experience">Experience</a></li>
+          <li><a href="/education">Education</a></li>
+          <li><a href="/contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="main-content">
+      {{ content }}
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2025 {{ site.name }}. Built with Jekyll and inspired by Hugo Brewm theme.</p>
+    </footer>
+  </div>
 </body>
+
 </html>
