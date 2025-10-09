@@ -4,7 +4,7 @@ date: 2014-08-01
 categories: ["Experience"]
 tags: ["Software Engineering", "Java", "System Architecture", "Database Design", "Backend Development"]
 series: ["Professional Experience"]
-author: ["Marcos Vinícius"]
+author: "Marcos Vinícius"
 description: "My internship experience at TecSinapse working on system development, architecture design, and database integration at UFMS."
 draft: false
 ---

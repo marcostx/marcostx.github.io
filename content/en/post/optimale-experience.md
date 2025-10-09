@@ -4,7 +4,7 @@ date: 2016-07-01
 categories: ["Experience"]
 tags: ["Data Science", "Web Development", "Machine Learning", "Statistical Models", "APIs"]
 series: ["Professional Experience"]
-author: ["Marcos Vinícius"]
+author: "Marcos Vinícius"
 description: "My experience at Optimale Tecnologia spanning from software engineering intern to junior data scientist, working on web development and ML projects."
 draft: false
 ---

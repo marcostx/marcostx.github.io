@@ -4,7 +4,7 @@ date: 2019-06-01
 categories: ["Experience"]
 tags: ["Machine Learning", "Data Science", "ETL", "Production ML", "Tableau"]
 series: ["Professional Experience"]
-author: ["Marcos Vinícius"]
+author: "Marcos Vinícius"
 description: "My experience at Beegol implementing ML models in production and building data pipelines for multiple customers."
 draft: false
 ---

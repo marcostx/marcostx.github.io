@@ -4,7 +4,7 @@ date: 2023-08-01
 categories: ["Experience"]
 tags: ["Machine Learning", "AI", "MLOps", "Fintech"]
 series: ["Professional Experience"]
-author: ["Marcos Vinícius"]
+author: "Marcos Vinícius"
 description: "My journey at Nubank as a Senior Machine Learning Engineer, building ML platform products and credit card operational platforms."
 draft: false
 ---

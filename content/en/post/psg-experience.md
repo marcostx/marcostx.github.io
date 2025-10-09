@@ -4,7 +4,7 @@ date: 2013-08-01
 categories: ["Experience"]
 tags: ["Computer Vision", "Artificial Intelligence", "Agricultural Technology", "Image Processing", "UAV"]
 series: ["Professional Experience"]
-author: ["Marcos Vinícius"]
+author: "Marcos Vinícius"
 description: "My first professional experience at PsG Tecnologia Aplicada developing AI and Computer Vision algorithms for agricultural applications using UAV imagery."
 draft: false
 ---

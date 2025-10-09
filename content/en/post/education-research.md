@@ -4,7 +4,7 @@ date: 2020-12-01
 categories: ["Education"]
 tags: ["Deep Learning", "Computer Vision", "Research", "Academia"]
 series: ["Academic Journey"]
-author: ["Marcos Vinícius"]
+author: "Marcos Vinícius"
 description: "My academic journey from Computer Science bachelor's to master's degree focused on Deep Learning and violence detection in videos."
 draft: false
 ---
