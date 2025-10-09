@@ -4,7 +4,6 @@ date: 2018-04-01
 categories: ["Experience"]
 tags: ["Data Science", "Time Series", "Classification", "Regression", "Visual Analytics"]
 series: ["Professional Experience"]
-author: "Marcos Vinícius"
 description: "My experience at Quaasar Machine Learning working on diverse ML projects including time series analysis, classification, and visual analytics."
 draft: false
 ---

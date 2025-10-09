@@ -4,7 +4,6 @@ date: 2021-08-01
 categories: ["Experience"]
 tags: ["Machine Learning", "Data Science", "MLOps", "Time Series", "Fuel Industry"]
 series: ["Professional Experience"]
-author: "Marcos Vinícius"
 description: "My experience at Raízen working on ML platform development and fuel demand forecasting projects."
 draft: false
 ---
