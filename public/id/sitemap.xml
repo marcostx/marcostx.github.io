@@ -1,0 +1,46 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/id/author/</loc>
+    
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/author/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/author/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/author/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/author/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/categories/</loc>
+    
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/categories/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/categories/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/categories/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/categories/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/</loc>
+    
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/series/</loc>
+    
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/series/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/series/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/series/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/series/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/stage/</loc>
+    
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/stage/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/stage/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/stage/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/stage/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/tags/</loc>
+    
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/tags/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/tags/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/tags/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/" />
+  </url>
+</urlset>
