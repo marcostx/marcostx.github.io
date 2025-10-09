@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuel Industry on Marcos Vinícius</title>
+    <link>http://localhost:1313/en/tags/fuel-industry/</link>
+    <description>Recent Posts in Fuel Industry on Marcos Vinícius</description>
+    <generator>Hugo 0.151.0</generator>
+    <language>en-GB</language>
+    <managingEditor>Marcos Vinícius</managingEditor>
+    
+      <webMaster>Marcos Vinícius</webMaster>
+    <lastBuildDate>Thu, 09 Oct 2025 00:11:51 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/fuel-industry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raízen - Machine Learning Engineer &amp; Data Science Specialist</title>
+      <link>http://localhost:1313/en/post/raizen-experience/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/post/raizen-experience/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>

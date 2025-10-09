@@ -16,7 +16,7 @@
   <url>
     <loc>http://localhost:1313/es-mx/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" /><xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="http://localhost:1313/en/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/" />
     <xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/" />
   </url>
   <url>

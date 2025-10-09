@@ -9,7 +9,268 @@
     <managingEditor>Marcos Vinícius</managingEditor>
     
       <webMaster>Marcos Vinícius</webMaster>
-    <lastBuildDate>Wed, 08 Oct 2025 23:35:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 00:11:51 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/en/tags/ai/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Fintech</title>
+      <link>http://localhost:1313/en/tags/fintech/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/fintech/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/en/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>MLOps</title>
+      <link>http://localhost:1313/en/tags/mlops/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/mlops/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/en/tags/data-science/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/data-science/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Fuel Industry</title>
+      <link>http://localhost:1313/en/tags/fuel-industry/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/fuel-industry/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Time Series</title>
+      <link>http://localhost:1313/en/tags/time-series/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/time-series/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Academia</title>
+      <link>http://localhost:1313/en/tags/academia/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/academia/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/en/tags/computer-vision/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/computer-vision/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/en/tags/deep-learning/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/en/tags/research/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/research/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>ETL</title>
+      <link>http://localhost:1313/en/tags/etl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/etl/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Production ML</title>
+      <link>http://localhost:1313/en/tags/production-ml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/production-ml/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Tableau</title>
+      <link>http://localhost:1313/en/tags/tableau/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/tableau/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Classification</title>
+      <link>http://localhost:1313/en/tags/classification/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/classification/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:1313/en/tags/regression/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/regression/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Visual Analytics</title>
+      <link>http://localhost:1313/en/tags/visual-analytics/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/visual-analytics/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>APIs</title>
+      <link>http://localhost:1313/en/tags/apis/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/apis/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Statistical Models</title>
+      <link>http://localhost:1313/en/tags/statistical-models/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/statistical-models/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/en/tags/web-development/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/web-development/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Backend Development</title>
+      <link>http://localhost:1313/en/tags/backend-development/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/backend-development/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Database Design</title>
+      <link>http://localhost:1313/en/tags/database-design/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/database-design/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/en/tags/java/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/en/tags/software-engineering/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/software-engineering/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>System Architecture</title>
+      <link>http://localhost:1313/en/tags/system-architecture/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/system-architecture/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Agricultural Technology</title>
+      <link>http://localhost:1313/en/tags/agricultural-technology/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/agricultural-technology/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/en/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/artificial-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Image Processing</title>
+      <link>http://localhost:1313/en/tags/image-processing/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/image-processing/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>UAV</title>
+      <link>http://localhost:1313/en/tags/uav/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <author>Marcos Vinícius</author>
+      <guid>http://localhost:1313/en/tags/uav/</guid>
+      <description></description>
+      
+    </item>
   </channel>
 </rss>

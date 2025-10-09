@@ -2,7 +2,7 @@
   name       = 'Fork!'
   identifier = 'fork'
   weight     = 3
-  url        = 'https://github.com/foxihd/hugo-brewm'
+  url        = 'https://github.com/marcostx/marcostx.github.io'
   pre        = 'github'
   [[main.params]]
     target   = '_blank'
@@ -14,175 +14,87 @@
   weight     = 1
 
   [[main]]
-    name       = 'A Series'
-    identifier = 'series1'
-    pageRef    = '/'
+    name       = 'Academic Journey'
+    identifier = 'academic-journey'
+    pageRef    = '/post/education-research'
     parent     = 'series'
-    Post       = 'Example with post/description'
+    Post       = 'Education & Research Background'
 
   [[main]]
-    name       = 'Another series'
-    identifier = 'series2'
-    pageRef    = '/'
+    name       = 'Professional Experience'
+    identifier = 'professional-experience'
+    pageRef    = '/post/nubank-experience'
     parent     = 'series'
-
-  [[main]]
-    name       = 'Sustainable Development'
-    identifier = 'series.sdg'
-    pageRef    = '/'
-    parent     = 'series'
-    Post       = 'Nested Menu example'
+    Post       = 'Current role at Nubank'
 
     [[main]]
-      name       = 'No Poverty'
-      identifier = 'series.sdg.1'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'Nubank (Current)'
+      identifier = 'nubank-current'
+      pageRef    = '/post/nubank-experience'
+      parent     = 'professional-experience'
+      Post       = 'Senior ML Engineer'
 
     [[main]]
-      name       = 'Zero Hunger'
-      identifier = 'series.sdg.2'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'Raízen'
+      identifier = 'raizen-exp'
+      pageRef    = '/post/raizen-experience'
+      parent     = 'professional-experience'
+      Post       = 'ML Engineer & Data Scientist'
 
     [[main]]
-      name       = 'Good Health and Well-being'
-      identifier = 'series.sdg.3'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'Beegol'
+      identifier = 'beegol-exp'
+      pageRef    = '/post/beegol-experience'
+      parent     = 'professional-experience'
+      Post       = 'Data Scientist & ML Engineer'
 
     [[main]]
-      name       = 'Quality Education'
-      identifier = 'series.sdg.4'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'Quaasar ML'
+      identifier = 'quaasar-exp'
+      pageRef    = '/post/quaasar-experience'
+      parent     = 'professional-experience'
+      Post       = 'Data Scientist'
 
     [[main]]
-      name       = 'Gender Equality'
-      identifier = 'series.sdg.5'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'Optimale Tecnologia'
+      identifier = 'optimale-exp'
+      pageRef    = '/post/optimale-experience'
+      parent     = 'professional-experience'
+      Post       = 'Junior Data Scientist'
 
     [[main]]
-      name       = 'Clean Water and Sanitation'
-      identifier = 'series.sdg.6'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'TecSinapse'
+      identifier = 'tecsinapse-exp'
+      pageRef    = '/post/tecsinapse-experience'
+      parent     = 'professional-experience'
+      Post       = 'Software Engineer Intern'
 
     [[main]]
-      name       = 'Affordable and Clean Energy'
-      identifier = 'series.sdg.7'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Decent Work and Economic Growth'
-      identifier = 'series.sdg.8'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Industry, Innovation and Infrastructure'
-      identifier = 'series.sdg.9'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Reduced Inequalities'
-      identifier = 'series.sdg.10'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Sustainable Cities and Communities'
-      identifier = 'series.sdg.11'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Responsible Consumption and Production'
-      identifier = 'series.sdg.12'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Climate Action'
-      identifier = 'series.sdg.13'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Life Below Water'
-      identifier = 'series.sdg.14'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Life on Land'
-      identifier = 'series.sdg.15'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Peace, Justice and Strong Institutions'
-      identifier = 'series.sdg.16'
-      pageRef    = '/'
-      parent     = 'series.sdg'
-
-    [[main]]
-      name       = 'Partnerships for the Goals'
-      identifier = 'series.sdg.17'
-      pageRef    = '/'
-      parent     = 'series.sdg'
+      name       = 'PsG Tecnologia'
+      identifier = 'psg-exp'
+      pageRef    = '/post/psg-experience'
+      parent     = 'professional-experience'
+      Post       = 'First Tech Experience'
 
 [[main]]
   name       = 'Works'
   identifier = 'works'
-  pageRef    = '/'
+  pageRef    = '/post'
   weight     = 2
 
   [[main]]
-    name       = 'Commission'
-    identifier = 'commission'
-    pageRef    = '/'
+    name       = 'All Posts'
+    identifier = 'all-posts'
+    pageRef    = '/post'
     parent     = 'works'
-    Post       = 'Example Menu'
+    Post       = 'View all articles'
     weight     = 1
-
-  [[main]]
-    name       = 'Project'
-    identifier = 'project'
-    pageRef    = '/'
-    parent     = 'works'
-    Post       = 'My current projects'
-    weight     = 2
-
-  [[main]]
-    name       = 'Gallery'
-    identifier = 'gallery'
-    pageRef    = '/'
-    parent     = 'works'
-    Post       = 'Well, actually, silly stuff'
-    weight     = 3
-
-[[more]]
-  name       = 'Resources'
-  identifier = 'resources'
-  pageRef    = '/'
-  weight     = 3
 
 [[more]]
   name       = 'About'
   identifier = 'about'
   pageRef    = '/'
   weight     = 5
-
-  [[more]]
-  name       = 'Sustainability'
-  identifier = 'sustainability'
-  pageRef    = '/'
-  parent     = 'about'
-  weight     = 1
 
   [[more]]
   name       = 'Author'
@@ -211,68 +123,28 @@
   weight     = 3
   pre        = 'mastodon'
 
-[[more]]
-  name       = 'More Menu'
-  identifier = 'more.menu'
-  weight     = 99
-
-  [[more]]
-    name       = 'That'
-    identifier = 'more.menu.that'
-    parent     = 'more.menu'
-
-    [[more]]
-      name       = 'Never'
-      identifier = 'more.menu.that.never'
-      parent     = 'more.menu.that'
-
-      [[more]]
-        name       = 'Too'
-        identifier = 'more.menu.that.never.too'
-        parent     = 'more.menu.that.never'
-
-        [[more]]
-          name       = 'Deep'
-          identifier = 'more.menu.that.never.too.deep'
-          parent     = 'more.menu.that.never.too'
-
-[[footer]]
-  identifier = 'figma'
-  pageRef    = '/'
-  weight     = 1
-  name       = 'figma'
-  pre        = 'figma'
-
-[[footer]]
-  identifier = 'hashnode'
-  pageRef    = '/'
-  weight     = 2
-  name       = 'hashnode'
-  pre        = 'hashnode'
 
 [[footer]]
   identifier = 'email'
-  pageRef    = '/'
-  weight     = 3
+  url        = 'mailto:marcostx1994@gmail.com'
+  weight     = 1
   name       = 'email'
   pre        = 'email'
 
 [[footer]]
   identifier = 'linkedin'
-  pageRef    = '/'
-  weight     = 4
+  url        = 'http://www.linkedin.com/in/marcos-vinícius-575105a3'
+  weight     = 2
   name       = 'linkedin'
   pre        = 'linkedin'
+  [[footer.params]]
+    target   = '_blank'
 
 [[footer]]
-  identifier = 'karyakarsa'
-  pageRef    = '/'
-  weight     = 5
-  name       = 'karya karsa'
-  pre        = 'karyakarsa'
-
-[[contrib]]
-  identifier = 'githubsponsors'
-  url        = 'https://github.com/sponsors/foxihd/'
-  name       = 'Become Github Sponsors'
-  pre        = 'githubsponsors'
+  identifier = 'linktr'
+  url        = 'https://linktr.ee/marcos_tex'
+  weight     = 3
+  name       = 'other links'
+  pre        = 'link'
+  [[footer.params]]
+    target   = '_blank'

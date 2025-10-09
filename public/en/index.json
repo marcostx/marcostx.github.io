@@ -1,0 +1,469 @@
+
+{
+    "nodes": [{
+                "id": "8afae8f76b4f479525422712557c975e",
+                "title": "Nubank - Senior Machine Learning Engineer",
+                "permalink": "http://localhost:1313/en/post/nubank-experience/",
+                "type": "post"
+            },{
+                "id": "e9d7be634f709e40730d2fcbb2f5782d",
+                "title": "Raízen - Machine Learning Engineer & Data Science Specialist",
+                "permalink": "http://localhost:1313/en/post/raizen-experience/",
+                "type": "post"
+            },{
+                "id": "769668ad77f41357aff9aa705f74523f",
+                "title": "Education & Research Background",
+                "permalink": "http://localhost:1313/en/post/education-research/",
+                "type": "post"
+            },{
+                "id": "fe6d595cab839b8008d0afdbfc2b52b1",
+                "title": "Beegol - Data Scientist & ML Engineer",
+                "permalink": "http://localhost:1313/en/post/beegol-experience/",
+                "type": "post"
+            },{
+                "id": "a3182c680c908bc28f20ae625bdde925",
+                "title": "Quaasar Machine Learning - Data Scientist",
+                "permalink": "http://localhost:1313/en/post/quaasar-experience/",
+                "type": "post"
+            },{
+                "id": "4611203f64820adb6d7749b6b061f92b",
+                "title": "Optimale Tecnologia - Junior Data Scientist & Software Engineering Intern",
+                "permalink": "http://localhost:1313/en/post/optimale-experience/",
+                "type": "post"
+            },{
+                "id": "fddaf1e00655272db92c41e1222cfd8e",
+                "title": "TecSinapse - Software Engineer Intern",
+                "permalink": "http://localhost:1313/en/post/tecsinapse-experience/",
+                "type": "post"
+            },{
+                "id": "af3341039a4c10064e1aa3b79d67513a",
+                "title": "PsG Tecnologia Aplicada - Software Engineer Intern",
+                "permalink": "http://localhost:1313/en/post/psg-experience/",
+                "type": "post"
+            },
+                        {
+                            "id": "categories-education",
+                            "title": "Education",
+                            "permalink": "http://localhost:1313/en/categories/education/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "categories-experience",
+                            "title": "Experience",
+                            "permalink": "http://localhost:1313/en/categories/experience/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "series-academic-journey",
+                            "title": "Academic Journey",
+                            "permalink": "http://localhost:1313/en/series/academic-journey/",
+                            "type": "series"
+                        },
+                        {
+                            "id": "series-professional-experience",
+                            "title": "Professional Experience",
+                            "permalink": "http://localhost:1313/en/series/professional-experience/",
+                            "type": "series"
+                        },
+                        {
+                            "id": "tags-academia",
+                            "title": "Academia",
+                            "permalink": "http://localhost:1313/en/tags/academia/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-agricultural-technology",
+                            "title": "Agricultural Technology",
+                            "permalink": "http://localhost:1313/en/tags/agricultural-technology/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-ai",
+                            "title": "AI",
+                            "permalink": "http://localhost:1313/en/tags/ai/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-apis",
+                            "title": "APIs",
+                            "permalink": "http://localhost:1313/en/tags/apis/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-artificial-intelligence",
+                            "title": "Artificial Intelligence",
+                            "permalink": "http://localhost:1313/en/tags/artificial-intelligence/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-backend-development",
+                            "title": "Backend Development",
+                            "permalink": "http://localhost:1313/en/tags/backend-development/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-classification",
+                            "title": "Classification",
+                            "permalink": "http://localhost:1313/en/tags/classification/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-computer-vision",
+                            "title": "Computer Vision",
+                            "permalink": "http://localhost:1313/en/tags/computer-vision/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-data-science",
+                            "title": "Data Science",
+                            "permalink": "http://localhost:1313/en/tags/data-science/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-database-design",
+                            "title": "Database Design",
+                            "permalink": "http://localhost:1313/en/tags/database-design/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-deep-learning",
+                            "title": "Deep Learning",
+                            "permalink": "http://localhost:1313/en/tags/deep-learning/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-etl",
+                            "title": "ETL",
+                            "permalink": "http://localhost:1313/en/tags/etl/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-fintech",
+                            "title": "Fintech",
+                            "permalink": "http://localhost:1313/en/tags/fintech/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-fuel-industry",
+                            "title": "Fuel Industry",
+                            "permalink": "http://localhost:1313/en/tags/fuel-industry/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-image-processing",
+                            "title": "Image Processing",
+                            "permalink": "http://localhost:1313/en/tags/image-processing/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-java",
+                            "title": "Java",
+                            "permalink": "http://localhost:1313/en/tags/java/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-machine-learning",
+                            "title": "Machine Learning",
+                            "permalink": "http://localhost:1313/en/tags/machine-learning/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-mlops",
+                            "title": "MLOps",
+                            "permalink": "http://localhost:1313/en/tags/mlops/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-production-ml",
+                            "title": "Production ML",
+                            "permalink": "http://localhost:1313/en/tags/production-ml/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-regression",
+                            "title": "Regression",
+                            "permalink": "http://localhost:1313/en/tags/regression/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-research",
+                            "title": "Research",
+                            "permalink": "http://localhost:1313/en/tags/research/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-software-engineering",
+                            "title": "Software Engineering",
+                            "permalink": "http://localhost:1313/en/tags/software-engineering/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-statistical-models",
+                            "title": "Statistical Models",
+                            "permalink": "http://localhost:1313/en/tags/statistical-models/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-system-architecture",
+                            "title": "System Architecture",
+                            "permalink": "http://localhost:1313/en/tags/system-architecture/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-tableau",
+                            "title": "Tableau",
+                            "permalink": "http://localhost:1313/en/tags/tableau/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-time-series",
+                            "title": "Time Series",
+                            "permalink": "http://localhost:1313/en/tags/time-series/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-uav",
+                            "title": "UAV",
+                            "permalink": "http://localhost:1313/en/tags/uav/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-visual-analytics",
+                            "title": "Visual Analytics",
+                            "permalink": "http://localhost:1313/en/tags/visual-analytics/",
+                            "type": "tags"
+                        },
+                        {
+                            "id": "tags-web-development",
+                            "title": "Web Development",
+                            "permalink": "http://localhost:1313/en/tags/web-development/",
+                            "type": "tags"
+                        },
+    ],
+    "links": [
+            
+                    {
+                        "source": "8afae8f76b4f479525422712557c975e",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "8afae8f76b4f479525422712557c975e",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "8afae8f76b4f479525422712557c975e",
+                        "target": "tags-machine-learning",
+                    },
+                    {
+                        "source": "8afae8f76b4f479525422712557c975e",
+                        "target": "tags-ai",
+                    },
+                    {
+                        "source": "8afae8f76b4f479525422712557c975e",
+                        "target": "tags-mlops",
+                    },
+                    {
+                        "source": "8afae8f76b4f479525422712557c975e",
+                        "target": "tags-fintech",
+                    },
+            
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "tags-machine-learning",
+                    },
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "tags-data-science",
+                    },
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "tags-mlops",
+                    },
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "tags-time-series",
+                    },
+                    {
+                        "source": "e9d7be634f709e40730d2fcbb2f5782d",
+                        "target": "tags-fuel-industry",
+                    },
+            
+                    {
+                        "source": "769668ad77f41357aff9aa705f74523f",
+                        "target": "categories-education",
+                    },
+                    {
+                        "source": "769668ad77f41357aff9aa705f74523f",
+                        "target": "series-academic-journey",
+                    },
+                    {
+                        "source": "769668ad77f41357aff9aa705f74523f",
+                        "target": "tags-deep-learning",
+                    },
+                    {
+                        "source": "769668ad77f41357aff9aa705f74523f",
+                        "target": "tags-computer-vision",
+                    },
+                    {
+                        "source": "769668ad77f41357aff9aa705f74523f",
+                        "target": "tags-research",
+                    },
+                    {
+                        "source": "769668ad77f41357aff9aa705f74523f",
+                        "target": "tags-academia",
+                    },
+            
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "tags-machine-learning",
+                    },
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "tags-data-science",
+                    },
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "tags-etl",
+                    },
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "tags-production-ml",
+                    },
+                    {
+                        "source": "fe6d595cab839b8008d0afdbfc2b52b1",
+                        "target": "tags-tableau",
+                    },
+            
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "tags-data-science",
+                    },
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "tags-time-series",
+                    },
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "tags-classification",
+                    },
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "tags-regression",
+                    },
+                    {
+                        "source": "a3182c680c908bc28f20ae625bdde925",
+                        "target": "tags-visual-analytics",
+                    },
+            
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "tags-data-science",
+                    },
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "tags-web-development",
+                    },
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "tags-machine-learning",
+                    },
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "tags-statistical-models",
+                    },
+                    {
+                        "source": "4611203f64820adb6d7749b6b061f92b",
+                        "target": "tags-apis",
+                    },
+            
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "tags-software-engineering",
+                    },
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "tags-java",
+                    },
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "tags-system-architecture",
+                    },
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "tags-database-design",
+                    },
+                    {
+                        "source": "fddaf1e00655272db92c41e1222cfd8e",
+                        "target": "tags-backend-development",
+                    },
+            
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "categories-experience",
+                    },
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "series-professional-experience",
+                    },
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "tags-computer-vision",
+                    },
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "tags-artificial-intelligence",
+                    },
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "tags-agricultural-technology",
+                    },
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "tags-image-processing",
+                    },
+                    {
+                        "source": "af3341039a4c10064e1aa3b79d67513a",
+                        "target": "tags-uav",
+                    },
+    ],
+}
