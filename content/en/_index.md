@@ -17,7 +17,7 @@ I have a master's in Computer Science focused on Deep Learning. My theme was vio
 
 In my free time, I love to travel and read books.
 
-— Marcos Vinícius
+— Marcos Teixeira
 
 **Key Competencies**
 

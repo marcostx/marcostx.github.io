@@ -1,4 +1,4 @@
-# Marcos Vinícius - Personal Website
+# Marcos Teixeira - Personal Website
 
 A modern personal website built with Hugo and the hugo-brewm theme, showcasing my professional journey as a Senior Machine Learning Engineer at Nubank.
 
@@ -85,4 +85,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Marcos Vinícius** - Senior Machine Learning Engineer | AI Engineer @ Nubank
+**Marcos Teixeira** - Senior Machine Learning Engineer | AI Engineer @ Nubank

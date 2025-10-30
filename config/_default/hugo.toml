@@ -1,7 +1,7 @@
 ## Base URL for the site
 baseURL = 'https://marcostx.github.io/'
 ## Site title
-title = 'Marcos Vinícius'
+title = 'Marcos Teixeira'
 ## Use hugo-brewm theme
 theme = 'hugo-brewm'
 ## Enable Git information for pages, (e.g. lastMod date information)
@@ -104,7 +104,7 @@ enableRobotsTXT = true
     ## Site description
     description = "Senior Machine Learning Engineer | AI Engineer @ Nubank"
     ## Copyright notice
-    copyright = "© 2025 Marcos Vinícius"
+    copyright = "© 2025 Marcos Teixeira"
     ## Hide "powered by hugo" on colophon
     # HideHugoCredit = true
     ## Enable extended metadata (social cards)
@@ -125,7 +125,7 @@ enableRobotsTXT = true
     ## Author information
     [params.author]
         ## site author's name
-        name = 'Marcos Vinícius'
+        name = 'Marcos Teixeira'
         ## Author's email (will be used for RSS feed)
         email = 'marcostx1994@gmail.com'
 

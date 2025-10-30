@@ -1,10 +1,10 @@
 baseURL = 'https://marcostx.github.io/'
 languageCode = 'en-us'
-title = 'Marcos Vinícius'
+title = 'Marcos Teixeira'
 theme = 'hugo-brewm'
 
 [params]
-  author = 'Marcos Vinícius'
+  author = 'Marcos Teixeira'
   description = 'Senior Machine Learning Engineer | AI Engineer @ Nubank'
   email = 'marcostx1994@gmail.com'
   linkedin = 'http://www.linkedin.com/in/marcos-vinícius-575105a3'
