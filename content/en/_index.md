@@ -7,9 +7,9 @@ description: "Senior Machine Learning Engineer | AI Engineer @ Nubank"
 
 **Senior Machine Learning Engineer | AI Engineer @ Nubank**
 
-I'm Marcos, a writer, a passionate reader, and a computer scientist. I currently work as a Machine Learning Engineer on a frontline team building all the intelligence and AI capabilities to power the future AI Private Banker and turning this into a platform to serve many teams within the company. 
+I'm Marcos, a writer, a passionate reader, and a computer scientist. I currently work as a Senior Machine Learning Engineer on a global team at Nubank, building AI capabilities for the AI Private Banker and creating platforms to serve teams across the company.
 
-Additionally, I'm designing and building the platform for the AI Private Banker, which will serve product teams to enable scaling of agentic solutions across different product fronts. I also lead the development of an Investments AI Agent focused on answering key questions about customer portfolios in natural language, elevating the way customers interact with their investments.
+My work involves the continuous evolution and enhancement of AI platforms critical to our AI Private Banker products. I design, implement, and maintain an AI Platform for Agents and tools that boost product teams with AI capabilities. Key achievements include deploying conversational AI agents for debt renegotiation & investment support, launching LLM-powered proactive financial health recommendations, re-architecting ML models managing $3B monthly credit exposure, and leading system modernization initiatives that decoupled monolithic systems into modular architecture.
 
 In my past experiences, I've also worked as a Data Scientist building models to generate business impacts for fields like water management, network analysis, and fuel/retail demand.
 

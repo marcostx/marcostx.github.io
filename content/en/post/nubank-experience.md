@@ -18,19 +18,15 @@ Working in a global team at Nubank, my journey involves the continuous evolution
 
 #### Key Achievements:
 
-* **Complete LLM lifecycle management** for proactive financial insights delivered to customers (design, evaluation, deployment, monitoring)
-* **AI Private Banker platform development** to enable scaling agentic solutions across different product fronts
-* **Led development of Investments AI Agent** focused on answering portfolio questions in natural language, elevating customer investment interactions
-* **Built AI capabilities for Private Banker application"** as part of the future AI Private Banker product
-* **Created scalable AI platform** to serve multiple teams within the company with AI capabilities
-* **Development of AI Agents** to provide personalized financial insights to customers in the AI Private Banker product
-* **Evolved credit card operations platforms** and architected efficiency-focused frameworks
-* **Led critical system decoupling** from monolithic applications to smaller and modular applications improving platform agility, reliability and drastically improving costs
-* **Modernized model calibration framework** enhancing analyst/data scientist collaboration
-* **Deployed catalog framework** improving credit policy governance and lifecycle
-* **Led several heavy dataset optimizations**
-* **Helped on migrating tons of artifacts** to a new data mesh infrastructure
-* **Led initiatives to improve the interface** for staging (pre-production) testing for models & credit card policies within Nubank
+* **Conversational AI** deployed AI agents for debt renegotiation & investment support across customer base
+* **LLM-Powered Insights** launched proactive financial health recommendations using large language models
+* **Critical Model Refactoring** re-architected ML model managing $3B monthly credit exposure
+* **System Modernization** decoupled monolithic systems into modular architecture, reducing operational costs and improving deployment speed
+* **Data Optimization** executed large-scale dataset optimizations across credit operations infrastructure
+* **Framework Evolution** modernized model calibration framework, accelerating analyst/data scientist workflows
+* **Governance Enhancement** implemented catalog framework for credit policy lifecycle management
+* **Data Mesh Migration** led migration of critical artifacts to modern data mesh architecture
+* **Testing Infrastructure** enhanced pre-production staging interface for model & policy validation
 
 ### Machine Learning Engineer
 **July 2022 - August 2023 (1 year 2 months)**
