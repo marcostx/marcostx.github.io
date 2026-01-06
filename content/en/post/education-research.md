@@ -40,9 +40,8 @@ Research publication focusing on attention mechanisms in video classification, s
 ### "Sistema baseado em Aprendizado de Máquina para Reconhecimento de Entidades Nomeadas em Português"
 *(Machine Learning-Based System for Recognition of Named Entities in Portuguese)*
 
-The internet is a vast repository of information, and most of this data is text. Computer systems are widely used today for data analysis and are very efficient at processing structured data. However, human, or natural, language is very complex and lacks the structure necessary for efficient computer processing. The field of Natural Language Processing (NLP) [1] deals with the development of algorithms to identify the information presented in a text and represent it in a structured format that is suitable for computational processing. In this way, other systems already used in data analysis can be applied to the information available in natural language. An essential task in NLP is Named Entity Recognition (NER) [2]. Named entities are references to real-world entities, such as people, places, or institutions, through mentions of names or acronyms that identify these entities. Currently, the field of Machine Learning (ML) provides the most effective tools for NLP.
+Research on Natural Language Processing for Portuguese language, focusing on Named Entity Recognition using machine learning approaches. This work contributed to advancing NLP capabilities for Portuguese text processing.
 
-This project consists of developing a system to capture documents from the Internet, store them, and index them according to named entities recognized by machine learning algorithms. The system also includes functionalities for reviewing the entities recognized by the machine learning algorithms in order to evaluate the performance of these algorithms.
 ## Honors & Awards
 
 ### 🏆 4th Place Brazilian Robotics Competition
@@ -56,22 +55,11 @@ Award for outstanding research presentation and contribution to the field of Nat
 
 ## Certifications
 
-* **5-Day Gen AI Intensive**
-  - Skills: Prompt Engineering · Retrieval-Augmented Generation (RAG) · Embeddings · Agents · MLOps
-* **Modern Automated AI Agents**
-  - Skills: Agents · Large Language Models (LLM)
-* **MCP: Build Rich-Context AI Apps with Anthropic**
-  - Skills: mcp · Large Language Models (LLM)
-* **Agentic Knowledge Graph Construction**
-  - Skills: Agents · Retrieval-Augmented Generation (RAG) · Generative AI · Document Retrieval
-* **AI Agents with LangGraph**
-  - Skills: Generative AI · Agents · Artificial Intelligence (AI)
-* **Securing Generative AI**
-  - Skills: Information Security · Large Language Models (LLM)
 * **Machine Learning Engineering for Production (MLOps) Specialization**
 * **Machine Learning Data Lifecycle in Production**
 * **XII Workshop de Visão Computacional (WVC 2016)**
 * **IV Workshop de Engenharia de Software**
+* **Escola Regional de Informática**
 
 ## Research Impact
 
