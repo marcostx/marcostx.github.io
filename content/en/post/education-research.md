@@ -30,6 +30,8 @@ The research explored the intersection of computer vision and natural language p
 **Universidade Federal de Mato Grosso do Sul (UFMS)**  
 **2014 - 2017**
 
+Comprehensive foundation in computer science fundamentals, including algorithms, data structures, software engineering, and early exposure to machine learning and artificial intelligence concepts.
+
 ## Publications
 
 ### "What should we pay attention to when classifying violent videos?"
